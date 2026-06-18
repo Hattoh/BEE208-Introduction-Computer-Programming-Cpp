@@ -3,7 +3,7 @@
 ## Student Information 
  
 Name: Rita Hattoh
-Index Number: 012244166B
+Index Number: 01244166B
 Programme: BTech Electrical and Electronics Engineering.
 Level: 200
 Institution: Accra Technical University.
